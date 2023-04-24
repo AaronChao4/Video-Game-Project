@@ -10,3 +10,6 @@ game, video game’s platform, and ESRB rating, and Metacritic score?
 2. What do top selling video games have in common?
 
 3. Video games are most commonly sold in which continent? Is there a difference in video game interest depending on the region?
+
+
+This project was done using Python along with Matplotlib and Seaborn. The code can be found [here](https://github.com/AaronChao4/Video-Game-Project/blob/main/Chao_Aaron%20Stats%2021%20Project%20Code.ipynb). Afterwards, I compiled a final report which can be found [here](https://github.com/AaronChao4/Video-Game-Project/blob/main/Chao_Aaron%20Stats%2021%20Project%20Analysis.pdf).
